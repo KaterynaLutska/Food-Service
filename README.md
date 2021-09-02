@@ -2,7 +2,6 @@
 
 # Реализация
 
-![Превью страницы](preview.jpg)
 <p align="center">
  <img src="preview.png"  height="300" alt="Превью страницы">
 
